@@ -1,0 +1,12 @@
+---
+:id: 89316949
+:submitters:
+- :name: Solumtochukwu Orji
+  :email: sorji1@student.gsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-23 03:12:42.363935000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-09-22 20:12:42.363935000 Z
+:status: processed
+:score: 97.0
