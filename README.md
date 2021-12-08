@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/77766337/145265851-57e1e414-d722-46e4-808c-d81e3692c38b.png)
+
+
 Project 1 Sorji1
 readme
 <h1>Technologies</h1>
